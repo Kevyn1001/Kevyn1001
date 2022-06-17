@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Kevyn+Carvalho+de+Souza;Tenho+20+anos+de+idade;Sou+do+Rio+de+Janeiro,+RJ;Estudo+Ciência+da+Computação+na+UFRRJ;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-
 - ⚡ 5º Período na Univeridade Federal Rural do Rio de Janeiro
 - 🌱 Estudando JavaScript
 
@@ -32,6 +31,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kevyn1001}/count.svg" /></p> 
 <br></div>
-
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
