@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Kevyn+Carvalho+de+Souza;Tenho+22+anos+de+idade;Sou+do+Rio+de+Janeiro,+RJ;Estudo+Ciência+da+Computação+na+UFRRJ;)](https://git.io/typing-svg)
 
-- ⚡ Graduando em Ciência da Computação na Univeridade Federal Rural do Rio de Janeiro
+- ⚡ Graduando em Ciência da Computação na Universidade Federal Rural do Rio de Janeiro
 - 🌱 Estudando React
 ###
 
